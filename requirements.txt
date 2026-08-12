@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pydantic-settings
+numpy
+langchain
+langchain-google-genai
+pinecone
+gspread
